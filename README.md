@@ -3,6 +3,8 @@ A forestry operation based in PNG that is developing technology for small and me
 
 https://buhemtimbers.github.io/mobile.html
 
+![alt text](https://buhemtimbers.github.io/assets/images/cut-timber-record-data-562x1000.jpg "Record Log")
+
 # Record Data
 Use the application to record every log that is cut, it's species, the date it was cut as well as its measurements are taken etc. A unique identifier is the issued to the log so that it can be tracked through the supply chain. 
 
